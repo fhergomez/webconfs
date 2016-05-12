@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fernando Gomez - A blog about coding</title>
+    <description>A blog about my favorite coding sites and tutorials.</description>
+    <link>http://www.fhergomez.com/blog/</link>
+    <atom:link href="http://www.fhergomez.com/blog/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 09 May 2016 23:07:01 -0700</pubDate>
+    <lastBuildDate>Mon, 09 May 2016 23:07:01 -0700</lastBuildDate>
+    <generator>Jekyll v3.0.5</generator>
+    
+      <item>
+        <title>Treehouse-meetups</title>
+        <description>&lt;p&gt;This is a post about all the awesome Treehouse meetups out there!!!&lt;/p&gt;
+</description>
+        <pubDate>Sat, 07 May 2016 00:00:00 -0700</pubDate>
+        <link>http://www.fhergomez.com/blog/treehouse-meetups</link>
+        <guid isPermaLink="true">http://www.fhergomez.com/blog/treehouse-meetups</guid>
+        
+        
+        <category>meetups</category>
+        
+      </item>
+    
+      <item>
+        <title>Being a Developer after 40</title>
+        <description>&lt;p&gt;Do not worry about hype. Keep doing your thing, keep learning what you were learning, and move on. Pay attention to it only if you have a genuine interest, or if you feel that it could bring you some benefit in the medium or long run.&lt;/p&gt;
+
+&lt;p&gt;The reason for this lies in the fact that, as the Romans said in the past, Nil nove sul sole. Most of what you see and learn in computer science has been around for decades, and this fact is purposedly hidden beneath piles of marketing, books, blog posts and questions on Stack Overflow. Every new architecture is just a reimagination and a readaptation of an idea that was floating around for decades.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
+        <link>http://www.fhergomez.com/blog/converge</link>
+        <guid isPermaLink="true">http://www.fhergomez.com/blog/converge</guid>
+        
+        
+        <category>conferences</category>
+        
+      </item>
+    
+      <item>
+        <title>Coursera Python Course</title>
+        <description>&lt;p&gt;This course aims to teach everyone the basics of programming computers using Python. We cover the basics of how one constructs a program from a series of simple instructions in Python.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 26 Apr 2016 00:00:00 -0700</pubDate>
+        <link>http://www.fhergomez.com/blog/coursera-python</link>
+        <guid isPermaLink="true">http://www.fhergomez.com/blog/coursera-python</guid>
+        
+        
+        <category>conferences</category>
+        
+      </item>
+    
+      <item>
+        <title>Amazon Web Dev Conference</title>
+        <description>&lt;p&gt;Amazon Web Dev Conference is a one-day, one-track conference held in Seattle, WA. It’s hosted by Amazon Corporation, the biggest online store!&lt;/p&gt;
+
+&lt;p&gt;At this year’s conference, I had lots of fun, learned a ton, and met many talented web designers and developers.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 24 Apr 2016 08:25:36 -0700</pubDate>
+        <link>http://www.fhergomez.com/blog/amazon-web-dev</link>
+        <guid isPermaLink="true">http://www.fhergomez.com/blog/amazon-web-dev</guid>
+        
+        
+        <category>conferences</category>
+        
+      </item>
+    
+  </channel>
+</rss>
